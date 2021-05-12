@@ -1,0 +1,21 @@
+.Box{
+    margin: 10px;
+    position: relative;
+}
+
+.Box-remove{
+    position: absolute;
+    right: 0;
+    margin: 2px;
+    font-size: 12px;
+    padding: 2px 4px;
+    background-color: rgba(0, 0, 0, 0.199);
+    color: white;
+    border: none;
+    font-weight: 900;
+    cursor: pointer;
+}
+
+.Box-remove:hover{
+    background-color: black;
+}

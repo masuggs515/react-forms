@@ -1,0 +1,12 @@
+.NewBoxForm{
+    display: flex;
+    flex-direction: column;
+}
+
+label{
+    text-align: left;
+}
+
+input{
+    margin-bottom: 4px;
+}
